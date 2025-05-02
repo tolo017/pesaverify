@@ -22,7 +22,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourrepo/pesaverify.git
+git clone https://github.com/tolo017/pesaverify.git
 cd pesaverify
 
 # Create virtual environment
