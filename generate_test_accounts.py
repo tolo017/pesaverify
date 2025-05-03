@@ -22,4 +22,4 @@ def generate_test_accounts(num_accounts=1000):
     print(f"Generated {num_accounts} test accounts in test_accounts.csv")
 
 if __name__ == "__main__":
-    generate_test_accounts(100)  # Generates 5000 test accounts
+    generate_test_accounts(100)  # Generates test accounts
